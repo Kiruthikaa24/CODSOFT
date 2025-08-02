@@ -51,15 +51,25 @@ This project is a Python-based **Tic-Tac-Toe** game where players compete agains
 
 ---
 
-## Algorithm Explanation
-
-The AI uses the **Minimax algorithm** enhanced with **Alpha-Beta Pruning**:
-- `Maximizing` player: AI (`0`)
-- `Minimizing` player: Human (`X`)
-- The AI evaluates all possible board states recursively and picks the best possible move.
-- Pruning reduces unnecessary recursive calls and speeds up decision-making.
+# TASK 3-Smart Restaurant Recommendation System
+This project is an intelligent Restaurant Recommendation System built with Streamlit, Pandas, and Sentence Transformers. It leverages Natural Language Processing (NLP) and semantic search to provide personalized restaurant suggestions based on location, cuisine, rating, and review count filters.
 
 ---
+
+## Project Overview
+
+### Features:
+
+- User-friendly Streamlit web interface
+- Uses Sentence Embeddings to match queries semantically with restaurant data
+- Returns top 3 personalized recommendations with details
+
+### Tech Stack:
+- **Streamlit	Frontend UI for user interaction**
+- **Pandas-Data processing & filtering**
+- **SentenceTransformer-Semantic query matching using embeddings**
+- **nltk-Text processing**
+- **Python-Backend logic and integration**
 
 
 
