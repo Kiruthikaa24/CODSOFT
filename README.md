@@ -1,5 +1,5 @@
 # CODSOFT 
-# TASK 1- Rule-Based Chatbot - Kitty
+# TASK 1- Rule-Based Chatbot 
 
 This project features **Kitty**, a basic rule-based chatbot built using Python. Designed for simple conversational interactions, the chatbot demonstrates how conditional logic and pattern matching can be used to simulate intelligent dialogue. It responds to greetings, jokes, motivational quotes, time queries, and more, making it a great beginner project to explore fundamental AI and NLP concepts.
 
