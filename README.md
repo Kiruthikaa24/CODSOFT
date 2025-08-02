@@ -30,7 +30,9 @@ This project is a Python-based **Tic-Tac-Toe** game where players compete agains
 
 ---
 
-## Project Features
+## Project Overview
+
+### Features:
 
 - Single-player mode vs AI (Minimax + Alpha-Beta Pruning)
 - Intuitive 3x3 grid built with Gradio interface
